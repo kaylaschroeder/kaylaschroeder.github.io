@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a third year PhD candidate in Statistics at Northwestern. My research lies at the intersection of causal inference and machine learning (specifically natural language processing), with a current focus on developing a causally sufficient dimension reduction technique for text data."
+  }
+]
