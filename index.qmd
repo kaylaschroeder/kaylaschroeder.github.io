@@ -28,8 +28,6 @@ for text data.
 
 ## Education
 
-{{<i class="fas fa-graduation-cap"></i>}}
-
 <ul class="ul-edu fa-ul">
 
 <li>
@@ -97,5 +95,3 @@ University of California, Los Angeles
 {{< fa graduation >}}
 
 ## Skills
-
-
