@@ -1,1 +1,86 @@
 /* css styles */
+
+html, body { height: 100%; }
+
+.subtitle{
+  color:gray;
+  width: 500px;
+}
+
+.subtitle::first-line{
+  color:cornflowerblue;
+}
+
+p {
+  width 700px;
+}
+
+#quarto-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.quarto-about-trestles {
+  position: relative;
+  width: 1300px;
+}
+
+element.style {
+  width: 15em;
+}
+
+.rounded {
+  border-radius: 1rem !important;
+}
+
+.bi-house-door-fill {
+  font-size: 1.7em;  
+}
+
+.navbar-nav {
+  display: flex;             /* establish flex container */
+  align-items: center;       /* center ul container vertically */
+  justify-content: center;   /* center ul container horizontally (optional) */
+}
+
+.fa-2x {
+  font-size: 2em;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+a {
+  color: #4887c6;
+  text-decoration: underline;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+div.description {
+  color: gray;
+  line-height: 0.5em;
+  padding: 10px;
+  font-size: 13pt;
+}
+
+div.description::first-line {
+  color:cornflowerblue;
+  font-size: 16pt;
+}
+
+.fa-li.fa.fa-graduation-cap {
+  font-size: 150%;
+  padding: 7px 0px;
+}
+
+h2.anchored {
+  color: cornflowerblue;
+}
+    
