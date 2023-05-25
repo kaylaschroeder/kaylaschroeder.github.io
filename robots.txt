@@ -1,1 +1,1 @@
-Sitemap: https://github.com/kaylaschroeder/personalwebsite/sitemap.xml
+Sitemap: https://github.com/kaylaschroeder/kaylaschroeder.github.io/sitemap.xml
