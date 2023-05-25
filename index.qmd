@@ -30,5 +30,6 @@ I am a third year PhD candidate in Statistics at Northwestern. My research lies 
 {{< fa graduation >}}
 
 
+## Skills 
 
 
