@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: CV/CV_Kayla_Schroeder.pdf
+        text: CV
 
 format:
   html:
