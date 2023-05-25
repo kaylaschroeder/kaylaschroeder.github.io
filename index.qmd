@@ -25,7 +25,7 @@ I am a third year PhD candidate in Statistics at Northwestern. My research lies 
 
 ## Education
 
-<ul class="ul-edu fa-ul"> <li><i class="fa-li fa fa-graduation-cap"></i> <div class="description"> <p class="course"> MS in Statistics, 2022 </p><p class="institution">Northwestern University</p></div></li><li><i class="fa-li fa fa-graduation-cap"></i><div class="description"><p class="course">BS in Statistics, Minor in Mathematics 2020</p><p class="institution">University of California, Los Angeles</p></div></li></ul>
+<ul class="ul-edu fa-ul"><li><i class="fa-li fa fa-graduation-cap"></i> <div class="description"> <p class="course"> PhD in Statistics, Expected June 2025 </p><p class="institution">Northwestern University</p></div></li> <li><i class="fa-li fa fa-graduation-cap"></i> <div class="description"> <p class="course"> MS in Statistics, September 2022 </p><p class="institution">Northwestern University</p></div></li><li><i class="fa-li fa fa-graduation-cap"></i><div class="description"><p class="course">BS in Statistics, Minor in Mathematics, June 2020</p><p class="institution">University of California, Los Angeles</p></div></li></ul>
 
 {{< fa graduation >}}
 
