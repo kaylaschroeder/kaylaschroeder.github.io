@@ -26,6 +26,15 @@ learning (specifically natural language processing), with a current
 focus on developing a causally sufficient dimension reduction technique
 for text data.
 
+## Skills
+
+- Machine Learning
+- Causal Inference
+- Statistical Modeling and Analysis
+- Data Visualization
+- Experimental Design
+
+
 ## Education
 
 <ul class="ul-edu fa-ul">
@@ -94,4 +103,4 @@ University of California, Los Angeles
 
 {{< fa graduation >}}
 
-## Skills
+
