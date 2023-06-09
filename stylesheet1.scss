@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Colors
+$light-blue: #D1E5F4;
+$darker-blue: #709FC0;
+$cream: #FDFBF7;
+$gray: #64605f;
+$light-gray: #949799;
+$rust: #B7410E;
+// Fonts
+$main-font-size: 25px;
+// Widths 
+$main-width: 500px;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $darker-blue; // navbar foreground elements
+$navbar-hl: $rust; // highlight color when hovering over navbar links
+$body-bg: $light-blue; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $rust; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $rust; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
