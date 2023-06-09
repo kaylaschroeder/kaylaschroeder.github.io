@@ -13,6 +13,9 @@ about:
     - icon: linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/kayla-schroeder/
+    - icon: envelope
+      text: "Email"
+      href: mailto:kaylaaschroeder@gmail.com
 editor: 
   markdown: 
     wrap: 72
