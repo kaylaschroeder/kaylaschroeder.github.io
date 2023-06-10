@@ -7,6 +7,7 @@ $darker-blue: #709FC0;
 $cream: #FDFBF7;
 $gray: #64605f;
 $light-gray: #949799;
+$dark-gray: #333333;
 $rust: #B7410E;
 
 // Fonts
@@ -32,3 +33,15 @@ $code-color: $rust; // inline code text color
 
 // Code blocks
 $code-block-bg: $cream; // code block background color
+
+
+
+
+/*-- scss:rules --*/
+h1, h2 {
+  letter-spacing: 3px;
+  font-weight: 1000;
+  color: $dark-gray;
+}
+
+
