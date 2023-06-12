@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/kaylaschroeder/kaylaschroeder.github.io/research_projects.html</loc>
+    <lastmod>2023-06-12T19:54:51.849Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/kaylaschroeder/kaylaschroeder.github.io/index.html</loc>
-    <lastmod>2023-06-10T18:13:50.445Z</lastmod>
+    <lastmod>2023-06-12T19:54:52.537Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/kaylaschroeder/kaylaschroeder.github.io/about.html</loc>
-    <lastmod>2023-06-10T18:13:51.093Z</lastmod>
+    <lastmod>2023-06-12T19:54:52.817Z</lastmod>
   </url>
 </urlset>
