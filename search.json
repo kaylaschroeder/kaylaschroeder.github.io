@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "research_projects.html#past-projects",
-    "href": "research_projects.html#past-projects",
-    "title": "Research Projects",
-    "section": "Past Projects",
-    "text": "Past Projects"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kayla Schroeder",
@@ -33,5 +26,12 @@
     "title": "Kayla Schroeder",
     "section": "Education",
     "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected June 2025\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMS in Statistics, September 2022\n\n\nNorthwestern University\n\n\n\n\n\n\n\nBS in Statistics, Minor in Mathematics, June 2020\n\n\nUniversity of California, Los Angeles"
+  },
+  {
+    "objectID": "research_projects.html#past-projects",
+    "href": "research_projects.html#past-projects",
+    "title": "Research Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\n\nCreating a design comparable effect size for the single-case alternating treatment design\n\n\n\n\n\nDeveloping statistical analysis and modeling capabilities for MRI imaging output\n\n\n\n\n\nDetermining which existing models for prediction of hazardous release movement are best suited for prediction"
   }
 ]
