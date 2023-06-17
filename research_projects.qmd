@@ -4,20 +4,22 @@ title: "Research Projects"
 
 ## Current Projects
 
-### Developing a casually sufficient dimension reduction methodology for text data
+### Causal Inference for Natural Language Processing
 
-- 
+- Developing a casually sufficient dimension reduction methodology for text data.
 
 ## Past Projects
 
-### Creating a design comparable effect size for the single-case alternating treatment design
+### Experimental Design
 
-- 
+- Developed a design comparable effect size for the single-case alternating treatment design.
 
-### Developing statistical analysis and modeling capabilities for MRI imaging output
 
-- 
+### Modeling Brain Imagaing Data
 
-### Determining which existing models for prediction of hazardous release movement are best suited for prediction
+- Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
 
-- 
+### Modeling Atmospheric Data Models
+
+- Determined which existing models for prediction of hazardous release movement are best suited for prediction
+
