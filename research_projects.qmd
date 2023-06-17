@@ -4,11 +4,20 @@ title: "Research Projects"
 
 ## Current Projects
 
-- Casually sufficient dimension reduction for text data
-  - 
+### Developing a casually sufficient dimension reduction methodology for text data
 
-
+- 
 
 ## Past Projects
+
+### Creating a design comparable effect size for the single-case alternating treatment design
+
+- 
+
+### Developing statistical analysis and modeling capabilities for MRI imaging output
+
+- 
+
+### Determining which existing models for prediction of hazardous release movement are best suited for prediction
 
 - 
