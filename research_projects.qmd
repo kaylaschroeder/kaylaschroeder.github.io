@@ -12,12 +12,16 @@ title: "Research Projects"
 
 ### Experimental Design
 
-Overview: Developed a design comparable effect size for the single-case alternating treatment design.
+*Overview* : Developed a design comparable effect size for the single-case alternating treatment design.
+
+- Developed estimators of the effect size parameters and derived approximate small sample properties of the estimators analytically using quadratic forms. 
+- Evaluated properties of the developed estimators using multilevel simulation models.
+- Created visualizations using trellis plots to communicate the results to a non-technical audience.
 
 
 ### Modeling Brain Imagaing Data
 
-**Overview**: Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
+*Overview* : Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
 
 - Developed mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
 - Optimized mixed modeling processes to reduce computational intensity.
@@ -26,7 +30,7 @@ Overview: Developed a design comparable effect size for the single-case alternat
 
 ### Modeling Atmospheric Data Models
 
-*Overview*: Determined which existing models for prediction of hazardous release movement are best suited for prediction, and uncovered patterns among outlying model types.
+*Overview* : Determined which existing models for prediction of hazardous release movement are best suited for prediction, and uncovered patterns among outlying model types.
 
 - Modeled the outliers using k-means to determine which categories of models resulted in most and least effective prediction. 
 - Uncovered outliers using Local Outlier Factor methodology.
