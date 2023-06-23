@@ -17,7 +17,7 @@ Overview: Developed a design comparable effect size for the single-case alternat
 
 ### Modeling Brain Imagaing Data
 
-Overview: Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
+**Overview**: Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
 
 - Developed mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
 - Optimized mixed modeling processes to reduce computational intensity.
@@ -26,5 +26,9 @@ Overview: Developed modeling and analysis for a package performing statistical a
 
 ### Modeling Atmospheric Data Models
 
-Overview: Determined which existing models for prediction of hazardous release movement are best suited for prediction
+*Overview*: Determined which existing models for prediction of hazardous release movement are best suited for prediction, and uncovered patterns among outlying model types.
+
+- Modeled the outliers using k-means to determine which categories of models resulted in most and least effective prediction. 
+- Uncovered outliers using Local Outlier Factor methodology.
+- Determined existing patterns among the outlying model types.
 
