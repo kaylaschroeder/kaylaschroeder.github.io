@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+#title: "Research Projects"
 ---
 
 ## Current Projects
@@ -12,7 +12,7 @@ title: "Research Projects"
 
 ### Experimental Design
 
-*Overview* : Developed a design comparable effect size for the single-case alternating treatment design.
+*Overview* : Created a design comparable effect size for the single-case alternating treatment design.
 
 - Developed estimators of the effect size parameters and derived approximate small sample properties of the estimators analytically using quadratic forms. 
 - Evaluated properties of the developed estimators using multilevel simulation models.
@@ -23,7 +23,7 @@ title: "Research Projects"
 
 *Overview* : Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
 
-- Developed mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
+- Created mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
 - Optimized mixed modeling processes to reduce computational intensity.
 - Implemented a variety of other statistical analyses and tests for TBM, diffusion parameter maps, and ROIs as well. 
 - Created outputs in R Shiny to facilitate ease of output understanding for users.
