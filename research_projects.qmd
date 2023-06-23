@@ -12,12 +12,12 @@ title: "Research Projects"
 
 ### Experimental Design
 
-- Developed a design comparable effect size for the single-case alternating treatment design.
+Overview: Developed a design comparable effect size for the single-case alternating treatment design.
 
 
 ### Modeling Brain Imagaing Data
 
-Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
+Overview: Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
 
 - Developed mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
 - Optimized mixed modeling processes to reduce computational intensity.
@@ -26,5 +26,5 @@ Developed modeling and analysis for a package performing statistical analysis on
 
 ### Modeling Atmospheric Data Models
 
-- Determined which existing models for prediction of hazardous release movement are best suited for prediction
+Overview: Determined which existing models for prediction of hazardous release movement are best suited for prediction
 
