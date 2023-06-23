@@ -17,7 +17,12 @@ title: "Research Projects"
 
 ### Modeling Brain Imagaing Data
 
-- Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
+Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.
+
+- Developed mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses. 
+- Optimized mixed modeling processes to reduce computational intensity.
+- Implemented a variety of other statistical analyses and tests for TBM, diffusion parameter maps, and ROIs as well. 
+- Created outputs in R Shiny to facilitate ease of output understanding for users.
 
 ### Modeling Atmospheric Data Models
 
