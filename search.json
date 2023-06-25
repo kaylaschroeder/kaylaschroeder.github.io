@@ -4,14 +4,14 @@
     "href": "research_projects.html",
     "title": "Kayla Schroeder",
     "section": "",
-    "text": "Overview : Developing a casually sufficient dimension reduction methodology for text data.\n\nCurrently, when topic models are used for further understanding of text, the topics that are generated are simply interpreted manually by the user and any outcomes predicted by the text are modeled by a regression. This new methodology will provide a way to make interpretable causal conclusions about topics and their predicted outcomes through a dimension reduction process. No such methodology exists currently.\nIn additon, this methodology will also be useful in the scenario where text is the treatment, which is a complex and multifaceted scenario that is not handled well by existing methodologies."
+    "text": "Overview : Developing a casually sufficient dimension reduction methodology for text data.\n\nCurrently, when topic models are used for further understanding of text, the topics that are generated are simply interpreted manually by the user and any outcomes predicted by the text are modeled by a regression. This new methodology will provide a way to make interpretable causal conclusions about topics and their predicted outcomes through a dimension reduction process. No such methodology exists currently.\nIn additon, this methodology will be useful in situations where text is the treatment, which is a complex and multifaceted scenario that is not handled well by existing methodologies."
   },
   {
     "objectID": "research_projects.html#current-projects",
     "href": "research_projects.html#current-projects",
     "title": "Kayla Schroeder",
     "section": "",
-    "text": "Overview : Developing a casually sufficient dimension reduction methodology for text data.\n\nCurrently, when topic models are used for further understanding of text, the topics that are generated are simply interpreted manually by the user and any outcomes predicted by the text are modeled by a regression. This new methodology will provide a way to make interpretable causal conclusions about topics and their predicted outcomes through a dimension reduction process. No such methodology exists currently.\nIn additon, this methodology will also be useful in the scenario where text is the treatment, which is a complex and multifaceted scenario that is not handled well by existing methodologies."
+    "text": "Overview : Developing a casually sufficient dimension reduction methodology for text data.\n\nCurrently, when topic models are used for further understanding of text, the topics that are generated are simply interpreted manually by the user and any outcomes predicted by the text are modeled by a regression. This new methodology will provide a way to make interpretable causal conclusions about topics and their predicted outcomes through a dimension reduction process. No such methodology exists currently.\nIn additon, this methodology will be useful in situations where text is the treatment, which is a complex and multifaceted scenario that is not handled well by existing methodologies."
   },
   {
     "objectID": "research_projects.html#past-projects",
