@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kayla Schroeder",
+    "section": "",
+    "text": "I am a fourth year PhD candidate in Statistics at Northwestern. My research lies at the intersection of causal inference and machine learning (specifically natural language processing), with a current focus on developing a causally sufficient dimension reduction technique for text data."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Kayla Schroeder",
+    "section": "",
+    "text": "I am a fourth year PhD candidate in Statistics at Northwestern. My research lies at the intersection of causal inference and machine learning (specifically natural language processing), with a current focus on developing a causally sufficient dimension reduction technique for text data."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Kayla Schroeder",
+    "section": "Skills",
+    "text": "Skills\n\nMachine Learning\nCausal Inference\nStatistical Modeling and Analysis\nData Visualization\nExperimental Design"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kayla Schroeder",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected June 2025\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMS in Statistics, September 2022\n\n\nNorthwestern University\n\n\n\n\n\n\n\nBS in Statistics, Minor in Mathematics, June 2020\n\n\nUniversity of California, Los Angeles"
+  },
+  {
     "objectID": "research_projects.html",
     "href": "research_projects.html",
     "title": "Kayla Schroeder",
@@ -19,33 +47,5 @@
     "title": "Kayla Schroeder",
     "section": "Past Projects",
     "text": "Past Projects\n\nExperimental Design\nOverview : Created a design comparable effect size for the single-case alternating treatment design.\n\nDeveloped estimators of the effect size parameters and derived approximate small sample properties of the estimators analytically using quadratic forms.\nEvaluated properties of the developed estimators using multilevel simulation models.\nCreated visualizations using trellis plots to communicate the results to a non-technical audience.\n\n\n\nModeling Brain Imagaing Data\nOverview : Developed modeling and analysis for a package performing statistical analysis on a software that largely automated processing of MRI of the human brain.\n\nCreated mixed modeling capabilities for tensor based morphometry (TBM), diffusion parameter maps, and region of interest (ROIs) analyses.\nOptimized mixed modeling processes to reduce computational intensity.\nImplemented a variety of other statistical analyses and tests for TBM, diffusion parameter maps, and ROIs as well.\nCreated outputs in R Shiny to facilitate ease of output understanding for users.\n\n\n\nModeling Atmospheric Data Models\nOverview : Determined which existing models for prediction of hazardous release movement are best suited for prediction, and uncovered patterns among outlying model types.\n\nModeled the outliers using k-means to determine which categories of models resulted in most and least effective prediction.\nUncovered outliers using Local Outlier Factor methodology.\nDetermined existing patterns among the outlying model types."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kayla Schroeder",
-    "section": "",
-    "text": "I am a third year PhD candidate in Statistics at Northwestern. My research lies at the intersection of causal inference and machine learning (specifically natural language processing), with a current focus on developing a causally sufficient dimension reduction technique for text data."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Kayla Schroeder",
-    "section": "",
-    "text": "I am a third year PhD candidate in Statistics at Northwestern. My research lies at the intersection of causal inference and machine learning (specifically natural language processing), with a current focus on developing a causally sufficient dimension reduction technique for text data."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Kayla Schroeder",
-    "section": "Skills",
-    "text": "Skills\n\nMachine Learning\nCausal Inference\nStatistical Modeling and Analysis\nData Visualization\nExperimental Design"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Kayla Schroeder",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected June 2025\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMS in Statistics, September 2022\n\n\nNorthwestern University\n\n\n\n\n\n\n\nBS in Statistics, Minor in Mathematics, June 2020\n\n\nUniversity of California, Los Angeles"
   }
 ]
