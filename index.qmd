@@ -23,16 +23,18 @@ editor:
 
 ## About Me
 
-I am a fourth year PhD candidate in Statistics at Northwestern. My
-research lies at the intersection of causal inference and machine
-learning (specifically natural language processing), with a current
-focus on developing a causally sufficient dimension reduction technique
-for text data.
+I am a fifth year PhD candidate in Statistics at Northwestern. My
+research focuses on causal inference and reliability for natural 
+language processing. More specifically, my work creates a causally 
+sufficient dimension reduction technique for text data and develops 
+reliability metrics for natural language processing methods.
 
 ## Skills
 
 - Machine Learning
+- Natural Language Processing
 - Causal Inference
+- Reliability
 - Statistical Modeling and Analysis
 - Data Visualization
 - Experimental Design
@@ -49,7 +51,7 @@ for text data.
 ::: description
 <p class="course">
 
-PhD in Statistics, Expected June 2025
+PhD in Statistics, Expected Spring 2025
 
 </p>
 
