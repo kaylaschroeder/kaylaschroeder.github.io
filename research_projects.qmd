@@ -8,8 +8,9 @@
 
 *Overview* : Developed reliability methodologies for assessing natural language processing methods. 
 
-- Developed a suite of three metrics for evaluating topic model reliability, surpassing the standard practice method. Established a definitive, optimal metric, demonstrating its critical role in downstream applications. 
-- Currently developing reliability metrics for large language models.
+- Established a novel framework for evaluating the reliability of Large Language Model (LLM) judgments, addressing the critical issue of their stochastic nature. Investigated the downstream implications of reliability, exploring the relationship between reliability and judgment quality, and analyzing the impact of varying model settings on both judgment accuracy and reliability. Access our paper [at this link](https://google.com) for more details.
+
+- Developed a suite of three metrics for evaluating topic model reliability, surpassing the standard practice method. Established a definitive, optimal metric, demonstrating its critical role in downstream applications. For more details, access our paper [at this link](https://doi.org/10.48550/arXiv.2410.23186)
 
 ### Causal Inference for Natural Language Processing
 
