@@ -9,7 +9,7 @@ website:
         text: Home
       - href: research_projects.qmd
         text: Projects
-      - href: CV/CV_Kayla_Schroeder.pdf
+      - href: CV/CV_Kayla_Schroeder_v3.pdf
         text: CV
   page-footer: 
     background: light
